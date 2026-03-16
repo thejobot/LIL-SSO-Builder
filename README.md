@@ -105,26 +105,6 @@ No setup required.
 
 Any modern browser (Chrome, Safari, Firefox, Edge). Works on macOS, Windows, and mobile.
 
----
-
-## GitHub Pages Setup
-
-To run it directly in the browser:
-
-1. Upload `index.html` and this `README.md` to the repository
-2. Go to **Settings → Pages**
-3. Select **Deploy from a branch**
-4. Choose **main** and **/(root)**
-5. Save
-
-Your live URL will be:
-
-```
-https://<your-username>.github.io/LIL-SSO-Builder
-```
-
----
-
 ## Questions or Issues
 
 Open an issue in this repository and include the URL type you used and the output you received.
