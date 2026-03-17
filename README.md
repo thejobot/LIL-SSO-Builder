@@ -2,6 +2,9 @@
 
 A free browser tool that generates authenticated SSO course links for LinkedIn Learning. No installation, no login, no data sent anywhere. Use it live in your browser or download it and run it locally — both work exactly the same way.
 
+Use it now!
+https://thejobot.github.io/LIL-SSO-Builder/index.html
+
 ---
 
 ## What This Tool Does
