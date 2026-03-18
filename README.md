@@ -4,7 +4,7 @@ A lightweight browser tool for generating authenticated **LinkedIn Learning SSO 
 
 No installation. No login. No data collection.
 
-You can use it **directly in your browser** via GitHub Pages or **download it and run it locally** — both behave exactly the same.
+You can use it **directly in your browser** via GitHub Pages or **download it and run it locally, both behave exactly the same.
 
 **Live tool:**
 https://thejobot.github.io/LIL-SSO-Builder
