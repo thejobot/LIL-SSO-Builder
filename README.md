@@ -33,7 +33,7 @@ https://www.linkedin.com/learning-login/jit?account=XXXXXXXXX&channelType=JIT_IN
 
 If you do not have this URL, your LinkedIn Learning administrator or Customer Success Manager can provide it.
 
-Short or redirected URLs are supported — the tool will guide you through expanding them.
+Short or redirected URLs are supported, the tool will guide you through expanding them.
 
 ---
 
@@ -55,7 +55,7 @@ Supported types:
 
 ## How to Use
 
-### Step 1 — Paste your SSO URL
+### Step 1: Paste your SSO URL
 
 Paste your **full JIT or share SSO URL** into Step 1 and select **Extract Account ID**.
 
@@ -67,7 +67,7 @@ Once redirected, copy the full URL from your browser’s address bar and paste i
 
 ---
 
-### Step 2 — Paste a content URL
+### Step 2: Paste a content URL
 
 Paste any LinkedIn Learning content URL into Step 2.
 
@@ -77,7 +77,7 @@ The tool automatically detects the content type and preserves the correct path, 
 
 ---
 
-### Step 3 — Build and copy
+### Step 3: Build and copy
 
 Select **Build SSO URL**.
 
